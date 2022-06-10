@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img width="920px" height="500px" align="center"src="./README/MySql.png">
+    <img width="920px" height="500px" align="center"src="./Readme/sql.png">
 </div>
 
 <br>
@@ -41,11 +41,11 @@ This project was made to practice basic SQL lessons.
 ```bash
     # Clonar repositório
 
-    $ git clone 
+    $ git clone git@github.com:CrisSouzaMA/trybe-all-for-one.git
 
     # Entrar no diretório
 
-    $ cd 
+    $ cd trybe-all-for-one
 
 ```
 
